@@ -31,4 +31,4 @@ első séma definiálsá után:
 npm i @prisma/client
 ```
 
-Pirsma schémában a datasource URL: `"postgresql://postgres:postgres@localhost:5432/ticketing?schema=public"`
+Prisma schémában a datasource URL: `"postgresql://postgres:postgres@localhost:5432/ticketing?schema=public"`
